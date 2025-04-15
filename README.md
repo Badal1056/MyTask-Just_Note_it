@@ -25,5 +25,7 @@ A scalable, cross-platform Android To-Do List application built with Java, desig
 1. Clone the repo:
    ```bash
    git clone https://github.com/Badal1056/My-Task-Just-Note-it.git
+   
 2.Open the project in Android Studio.
+
 3.Build and run the app on an emulator or physical device.
