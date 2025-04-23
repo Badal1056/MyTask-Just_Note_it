@@ -31,9 +31,9 @@ A scalable, cross-platform Android To-Do List application built with Java, desig
 3.Build and run the app on an emulator or physical device.
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/7bb367b6-9531-441b-9322-fa00eb7c76fe" alt="Login Page" width="200"/>
-<img src="https://github.com/user-attachments/assets/775762f8-852b-463a-8644-705f2b625fea" alt="Left Slide Bar" width="200"/>
-<img src="https://github.com/user-attachments/assets/557a524a-7577-40cb-8787-546f390d9d3c" alt="Home Screen" width="200"/>
-<img src="https://github.com/user-attachments/assets/54f2ece4-6270-4835-b57d-f89fcffe8a65" alt="Adding Notes" width="200"/>
-<img src="https://github.com/user-attachments/assets/07a566a4-e3dd-437a-8ebc-4e175e34f256" alt="Navigation Bar" width="200"/>
+<img src="https://github.com/user-attachments/assets/7bb367b6-9531-441b-9322-fa00eb7c76fe" alt="Login Page" width="100"/>
+<img src="https://github.com/user-attachments/assets/775762f8-852b-463a-8644-705f2b625fea" alt="Left Slide Bar" width="100"/>
+<img src="https://github.com/user-attachments/assets/557a524a-7577-40cb-8787-546f390d9d3c" alt="Home Screen" width="100"/>
+<img src="https://github.com/user-attachments/assets/54f2ece4-6270-4835-b57d-f89fcffe8a65" alt="Adding Notes" width="100"/>
+<img src="https://github.com/user-attachments/assets/07a566a4-e3dd-437a-8ebc-4e175e34f256" alt="Navigation Bar" width="100"/>
 
