@@ -31,8 +31,9 @@ A scalable, cross-platform Android To-Do List application built with Java, desig
 3.Build and run the app on an emulator or physical device.
 
 # Screenshots
-![Navigation Bar](https://github.com/user-attachments/assets/0874fcee-efb0-45e9-a320-17bb898bd16f)
-![Login Page](https://github.com/user-attachments/assets/6b411c96-d5d9-48ea-8d57-1d04dedf4924)
-![left slide bar](https://github.com/user-attachments/assets/2dedbbf6-b8e9-4644-93e9-642f581a6a61)
-![Home Screen](https://github.com/user-attachments/assets/d5077a32-280f-4e20-981d-01e4a187cbee)
-![Adding Notes](https://github.com/user-attachments/assets/fab08006-7636-4765-be52-fe56c620ef15)
+<img src="https://github.com/Badal1056/MyTask-Just_Note_it/assets/IMAGE_ID" alt="Navigation Bar" width="300"/>
+<img src="https://github.com/Badal1056/MyTask-Just_Note_it/assets/IMAGE_ID" alt="Login Page" width="300"/>
+<img src="https://github.com/Badal1056/MyTask-Just_Note_it/assets/IMAGE_ID" alt="Left Slide Bar" width="300"/>
+<img src="https://github.com/Badal1056/MyTask-Just_Note_it/assets/IMAGE_ID" alt="Home Screen" width="300"/>
+<img src="https://github.com/Badal1056/MyTask-Just_Note_it/assets/IMAGE_ID" alt="Adding Notes" width="300"/>
+
